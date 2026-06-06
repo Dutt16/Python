@@ -1,0 +1,3 @@
+print("My daily routine of the week is I wake up at 6:20AM to take a shower and get to my bus stop for school.\n My school is 8 hours long and then I get home by 3:30PM.")
+print("Then, I go to the park with my friends to play tennis. I come back home and finish off my homework and study. Then I have my dinner and watch some TV for some time and then go to sleep.")
+print("The total study time of the week is:", 1.5 * 7)
